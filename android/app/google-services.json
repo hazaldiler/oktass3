@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "881725877357",
+    "project_id": "oktas-70917",
+    "storage_bucket": "oktas-70917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881725877357:android:0ae0b6f250587a5b262364",
+        "android_client_info": {
+          "package_name": "com.example.ymgk_cloud_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "881725877357-aln5dc7m3cb048h6jutclp72obh0j2i4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA5ACKEBToO80zMcNSfguELIDrn8j8vTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "881725877357-aln5dc7m3cb048h6jutclp72obh0j2i4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
